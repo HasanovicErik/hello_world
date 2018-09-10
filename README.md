@@ -1,2 +1,0 @@
-# hello_world
-First_activity_on_gitHub
